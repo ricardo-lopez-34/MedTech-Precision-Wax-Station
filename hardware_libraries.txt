@@ -1,0 +1,5 @@
+1. WiFi (Built-in)
+2. HTTPClient (Built-in)
+3. Adafruit_MAX6675 (for Thermocouple)
+4. Adafruit_SSD1306 (for OLED Display)
+5. ArduinoJson (by Benoit Blanchon)
